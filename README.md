@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/aPbt5jbYHGgAAAAC/batman-laugh-lego-batman.gif"  />
+  <img height="200" src="https://i.pinimg.com/originals/12/0a/26/120a2646c7bcbee09943a1a3501e43ac.gif"  />
 </div>
 <h1 align="center">Hi 👋, I'm Krishna Nagvekar</h1>
 <h3 align="center">Student studying Computer Engineering</h3>
