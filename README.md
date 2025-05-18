@@ -3,8 +3,7 @@
 </div>
 
 # 💫 Hello There, I'm Krishna Nagvekar
-🔭 I'm a student perusing my Computer Engineering<br> 💻 I’m currently working on Computer Vision and Cybersecurity Projects<br>🌱 I’m currently learning Blender, NodeJS, TensorFlow <br>💬 Ask me about C++, Python & JS<br>⚡Fun fact - I like watching movies🎥 - I love Formula 1 🏎️ and to read books 📖
-
+<h4> 🔭 I'm a student perusing my Computer Engineering<br> 💻 I’m currently working on Computer Vision and Cybersecurity Projects<br>🌱 I’m currently learning Blender, NodeJS, TensorFlow <br>💬 Ask me about C++, Python & JS<br>⚡Fun fact - I like watching movies🎥 - I love Formula 1 🏎️ and to read books 📖 </h4>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/knagvekar2307) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-nagvekar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:knagvekar07@gmail.com) 
