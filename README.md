@@ -14,7 +14,7 @@
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Krishna-2307&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"  width="500" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-2307&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"  width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-2307&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"  width="500"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Krishna-2307&theme=tokyonight&hide_border=true" width="500"/><br/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
